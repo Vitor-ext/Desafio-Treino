@@ -1,0 +1,15 @@
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Telzir_Tel.exe
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Telzir_Tel.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Telzir_Tel.deps.json
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Telzir_Tel.runtimeconfig.json
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Telzir_Tel.dll.config
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Telzir_Tel.pdb
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\MySql.Data.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Google.Protobuf.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\ZstdNet.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\BouncyCastle.Crypto.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\Ubiety.Dns.Core.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\K4os.Compression.LZ4.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\K4os.Hash.xxHash.dll
+C:\Users\Vitor.Santana\Desktop\Desafio\Exe\MySql.Data.xml
